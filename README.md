@@ -8,7 +8,7 @@ Voici les trois documents qui m'ont permis d'obtenir mon Titre Professionnel DWW
 * Le **dossier de projet** qui présente notre projet d'Apothéose de sa conception à sa mise en ligne en passant par sa réalisation.
 * Le Google Slide extrait en PDF qui m'a permis de présenter ma soutenance devant le jury le jour de l'examen. 
 
-Si vous avez des questions sur ces documents, je me ferai un plaisir de vous y répondre : vous pouvez me contacter sur LinkedIn : https://www.linkedin.com/in/pierremorin/
+Si vous avez des questions sur ces documents, je me ferai un plaisir de vous y répondre : vous pouvez me contacter sur LinkedIn → https://www.linkedin.com/in/pierremorin/
 
 Si ces dossiers t'ont aidé à avancer sur tes dossiers pour le Titre Pro', n'hésite pas à mettre une ⭐️ sur ce repo ! 
 
