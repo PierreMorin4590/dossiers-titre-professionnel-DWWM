@@ -12,4 +12,4 @@ Si vous avez des questions sur ces documents, je me ferai un plaisir de vous y r
 
 Si ces dossiers t'ont aidé à avancer sur tes dossiers pour le Titre Pro', n'hésite pas à mettre une ⭐️ sur ce repo ! 
 
-Bon courage pour tes dossiers, c'est long à rédiger et à peaufiner mais au final en fouillant les notions pour bien les expliquer, ça fait vraiment réviser pour la soutenance finale 💪
+Bon courage pour tes dossiers, c'est long à rédiger et à peaufiner mais au final en fouillant les notions pour bien les expliquer, ça permet vraiment de bien réviser pour la soutenance finale 💪
