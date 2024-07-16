@@ -1,4 +1,4 @@
-# Titre professionnel DWWM : mes trois dossiers pour la soutenance
+# Titre professionnel DWWM (Développeur Web &Web Mobile) : mes trois dossiers pour la soutenance
 
 Dans le cadre de ma reconversion professionnelle, j'ai effectué la formation Développeur Web au sein de l'école O'clock. 
 
